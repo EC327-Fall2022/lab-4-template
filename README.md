@@ -2,4 +2,4 @@
 Lab 4
 
 Commit all code you have written for Lab 4 here. 
-The Lab Slides and Assignment is here too.
+The Lab Slides and Assignment are here too.
